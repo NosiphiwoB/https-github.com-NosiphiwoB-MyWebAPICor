@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vPKBvHo2nISdTSsHMiLySWPpzvsMSz+bdznFXrxQX0O/ngZCt/kU9tVHH3eTYxffj+zrWu1/YyhIDSkcVysflg==",
+  "dgSpecHash": "svm03Yqhiiy9rYu4O8Y4c1twv6hi93S4CQZehZw8PnArG/73BvDAjhqhW5RS68MekMPOet7o9+ssL6t3Kw+Hvw==",
   "success": true,
-  "projectFilePath": "/home/tcg/workspace/MyWebAPICore/MyWebAPICore.csproj",
+  "projectFilePath": "/home/tcg/workspace/https-github.com-NosiphiwoB-MyWebAPICor/MyWebAPICore/MyWebAPICore.csproj",
   "expectedPackageFiles": [
     "/home/tcg/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/tcg/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

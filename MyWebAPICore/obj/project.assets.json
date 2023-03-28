@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tcg/workspace/MyWebAPICore/MyWebAPICore.csproj",
+      "projectUniqueName": "/home/tcg/workspace/https-github.com-NosiphiwoB-MyWebAPICor/MyWebAPICore/MyWebAPICore.csproj",
       "projectName": "MyWebAPICore",
-      "projectPath": "/home/tcg/workspace/MyWebAPICore/MyWebAPICore.csproj",
+      "projectPath": "/home/tcg/workspace/https-github.com-NosiphiwoB-MyWebAPICor/MyWebAPICore/MyWebAPICore.csproj",
       "packagesPath": "/home/tcg/.nuget/packages/",
-      "outputPath": "/home/tcg/workspace/MyWebAPICore/obj/",
+      "outputPath": "/home/tcg/workspace/https-github.com-NosiphiwoB-MyWebAPICor/MyWebAPICore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tcg/.nuget/NuGet/NuGet.Config"
