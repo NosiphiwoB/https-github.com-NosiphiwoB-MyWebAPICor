@@ -1,6 +1,3 @@
-
-
-
 using Microsoft.AspNetCore.Mvc;
 
 using MyWebAPICore.models;
@@ -15,6 +12,7 @@ namespace MyWebAPICore.Controllers
        
     [ApiController]
     [Route("[controller]")]
+    
     public class ProductController : ControllerBase
     {
 
@@ -34,6 +32,8 @@ namespace MyWebAPICore.Controllers
         {
             return products;
         }
+
+        
 
         [HttpPost()]
         public void PostProduct(Product product)

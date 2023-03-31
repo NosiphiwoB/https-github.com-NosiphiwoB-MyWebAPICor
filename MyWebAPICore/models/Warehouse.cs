@@ -2,19 +2,22 @@ using System.Reflection;
 namespace MyWebAPICore.models;
 
 
-public class Warehouse
+public class WareHouse
 {
 
-    public int WareHouseId { get; set; }
+    public int CompanyId { get; set; }
 
-    public string? WareHouseName { get; set; }
+    public string? CompanyName { get; set; }
+
+    public string? CompanyLocation { get; set; }
 
 
 
-    public Warehouse(int wareHouseId, string warehouseName)
+    public WareHouse(int companyId, string companyName , string companyLocation)
     {
-        this.WareHouseId = wareHouseId;
-        this.WareHouseName = warehouseName;
+        this.CompanyId = companyId;
+        this.CompanyName = companyName;
+        this.CompanyLocation = companyLocation;
     }
 
 
